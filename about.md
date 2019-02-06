@@ -4,43 +4,35 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! Nice to see you here.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I recently moved to the Bay Area and am currently on the hunt for a new opportunity. Apart from
+coding, I like to watch Liverpool F.C., obsess about video games, (try to) study astrophysics
+and read Sanskrit literature.</p>
+
+<h2>Education</h2>
+
+<ul class="education-list">
+	<li>Master of Science | Computer Science | Northeastern University | 3.52/4.00</li>
+	<li>Bachelor of Engineering | Computer Science & Engineering | Chitkara University | 7.67/10.00</li>
+</ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Language: Python - C - C++ - Java - JavaScript - Ruby</li>
+	<li>Deep Learning: TensorFlow - Keras - OpenCV</li>
+	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins</li>
+	<li>Databases: PostGreSQL - MongoDB</li>
+  <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
+	<li>Development practices: TDD - Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/alankritjoshi/traffic-flow-cv">Traffic Flow CV</a></li>
+	<li><a href="https://github.com/alankritjoshi/spotify-music-analysis">Spotify Music Analysis</a></li>
+	<li><a href="https://github.com/alankritjoshi/obesity-data-analysis">Obesity Risk Factors Analysis</a></li>
+	<li><a href="https://github.com/distributed-objects/Pydo">Pydo: Distributed Python Objects</a></li>
 </ul>
