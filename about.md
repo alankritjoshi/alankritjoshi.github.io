@@ -20,7 +20,7 @@ and read Sanskrit literature.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Language: Python - C - C++ - Java - JavaScript - Ruby</li>
+	<li>Language: Python - Go - C - C++ - Java - JavaScript - Ruby</li>
 	<li>Deep Learning: TensorFlow - Keras - OpenCV</li>
 	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins</li>
 	<li>Databases: PostGreSQL - MongoDB</li>
