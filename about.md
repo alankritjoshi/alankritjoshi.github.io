@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](https://avatars1.githubusercontent.com/u/13654555)
 
 <p>Hi! Nice to see you here.</p>
 
