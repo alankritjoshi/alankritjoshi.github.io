@@ -7,8 +7,8 @@ description: Some stuff about me
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars1.githubusercontent.com/u/13654555
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -52,20 +52,6 @@ github: alankritjoshi
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: alankritjoshi@gmail.com
-
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
