@@ -20,7 +20,7 @@ and read Sanskrit literature.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Language: Python - C - C++ - Java - JavaScript - Ruby</li>
+	<li>Language: Python - Go - C - C++ - Java - JavaScript - Ruby</li>
 	<li>Deep Learning: TensorFlow - Keras - OpenCV</li>
 	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins</li>
 	<li>Databases: PostGreSQL - MongoDB</li>
@@ -31,7 +31,7 @@ and read Sanskrit literature.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/alankritjoshi/traffic-flow-cv">Traffic Flow CV</a></li>
+	<li><a href="https://github.com/alankritjoshi/traffic-flow-cv">Traffic Flow CV <b>[WIP]</b></a></li>
 	<li><a href="https://github.com/alankritjoshi/spotify-music-analysis">Spotify Music Analysis</a></li>
 	<li><a href="https://github.com/alankritjoshi/obesity-data-analysis">Obesity Risk Factors Analysis</a></li>
 	<li><a href="https://github.com/distributed-objects/Pydo">Pydo: Distributed Python Objects</a></li>
