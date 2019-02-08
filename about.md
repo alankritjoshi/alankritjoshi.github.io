@@ -6,8 +6,9 @@ layout: page
 
 <p>Hi! Nice to see you here.</p>
 
-<p>I recently moved to the Bay Area and am currently on the hunt for a new opportunity. Apart from
-coding, I like to watch Liverpool F.C., obsess about video games, (try to) study astrophysics
+<p>I completed my Master's degree in Computer Science from Northeastern University - Boston last year, recently moved to the Bay Area and am currently on the hunt for a new opportunity.</p>
+
+<p>Apart from coding, I like to watch Liverpool F.C., obsess about video games, (try to) study astrophysics
 and read Sanskrit literature.</p>
 
 <h2>Education</h2>
