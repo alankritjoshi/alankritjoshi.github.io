@@ -22,17 +22,16 @@ and read Sanskrit literature.</p>
 <ul class="skill-list">
 	<li>Language: Python - Go - C - C++ - Java - JavaScript - Ruby</li>
 	<li>Deep Learning: TensorFlow - Keras - OpenCV</li>
-	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins</li>
+	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins - Kafka</li>
 	<li>Databases: PostGreSQL - MongoDB</li>
   <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
 	<li>Development practices: TDD - Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Recent Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/alankritjoshi/traffic-flow-cv">Traffic Flow CV <b>[WIP]</b></a></li>
 	<li><a href="https://github.com/alankritjoshi/spotify-music-analysis">Spotify Music Analysis</a></li>
 	<li><a href="https://github.com/alankritjoshi/obesity-data-analysis">Obesity Risk Factors Analysis</a></li>
-	<li><a href="https://github.com/distributed-objects/Pydo">Pydo: Distributed Python Objects</a></li>
 </ul>
