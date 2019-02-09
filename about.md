@@ -22,11 +22,12 @@ and read Sanskrit literature.</p>
 
 <ul class="skill-list">
 	<li>Language: Python - Go - C - C++ - Java - JavaScript - Ruby</li>
-	<li>Deep Learning: TensorFlow - Keras - OpenCV</li>
-	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins - Kafka</li>
+	<li>Deep Learning, CV: TensorFlow - Keras - Pandas - Numpy - OpenCV - GDAL</li>
+	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins</li>
 	<li>Databases: PostGreSQL - MongoDB</li>
   <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
 	<li>Development practices: TDD - Continuous Integration</li>
+  <li>Misc: Redis - Kafka - Celery - AWS</li>
 </ul>
 
 <h2>Recent Projects</h2>
