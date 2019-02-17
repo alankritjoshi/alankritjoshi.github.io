@@ -14,7 +14,7 @@ and read Sanskrit literature.</p>
 <h2>Education</h2>
 
 <ul class="education-list">
-	<li>Master of Science | Computer Science | Northeastern University | 3.52/4.00</li>
+	<li>Master of Science | Computer Science | Northeastern University | 3.54/4.00</li>
 	<li>Bachelor of Engineering | Computer Science & Engineering | Chitkara University | 7.67/10.00</li>
 </ul>
 
