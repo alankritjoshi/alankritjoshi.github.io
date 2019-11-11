@@ -21,19 +21,19 @@ and read Sanskrit literature.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Languages: Python - Go - C - C++ - Java - JavaScript - Ruby</li>
-	<li>Frameworks: MeteorJS - TensorFlow - Keras - Pandas - Numpy - OpenCV - GDAL</li>
+	<li>Languages: Python - JavaScript - Go - C - C++ - Java - Ruby</li>
+	<li>Deep Learning: TensorFlow - Keras - Pandas - Numpy - OpenCV - GDAL</li>
 	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins - AWS</li>
 	<li>Databases: PostGreSQL - MongoDB</li>
   <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
 	<li>Development practices: TDD - Continuous Integration - Agile</li>
-  <li>Misc: Redis - Kafka - Celery - node.js</li>
+  <li>Misc: MeteorJS - Redis - Kafka - Celery - node.js</li>
 </ul>
 
 <h2>Recent Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/alankritjoshi/traffic-flow-cv">Traffic Flow CV <b>[WIP]</b></a></li>
+	<li><a href="https://github.com/alankritjoshi/coderacer">CodeRacer <b>[WIP]</b></a></li>
 	<li><a href="https://github.com/alankritjoshi/spotify-music-analysis">Spotify Music Analysis</a></li>
 	<li><a href="https://github.com/alankritjoshi/obesity-data-analysis">Obesity Risk Factors Analysis</a></li>
 </ul>
