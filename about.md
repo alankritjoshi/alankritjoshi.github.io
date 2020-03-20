@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi! Nice to see you here.</p>
 
-<p>I live in the beautiful city of San Francisco and currently work as a Software Engineer II at Qualia.</p>
+<p>I live in Seattle and currently work as a SDE at Amazon.</p>
 
 <p>Apart from coding, I like to watch Liverpool F.C., obsess about video games, (try to) study astrophysics
 and read Sanskrit literature.</p>
@@ -28,12 +28,4 @@ and read Sanskrit literature.</p>
   <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
 	<li>Development practices: TDD - Continuous Integration - Agile</li>
   <li>Misc: MeteorJS - Redis - Kafka - Celery - node.js</li>
-</ul>
-
-<h2>Recent Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/alankritjoshi/coderacer">CodeRacer <b>[WIP]</b></a></li>
-	<li><a href="https://github.com/alankritjoshi/spotify-music-analysis">Spotify Music Analysis</a></li>
-	<li><a href="https://github.com/alankritjoshi/obesity-data-analysis">Obesity Risk Factors Analysis</a></li>
 </ul>
