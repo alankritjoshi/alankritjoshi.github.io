@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi! Nice to see you here.</p>
 
-<p>I live in Seattle and currently work as a SDE at Amazon.</p>
+<p>I live in Vancouver and currently work as a SDE at Amazon.</p>
 
 <p>Apart from coding, I like to watch Liverpool F.C., obsess about video games, (try to) study astrophysics
 and read Sanskrit literature.</p>
@@ -21,11 +21,11 @@ and read Sanskrit literature.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Languages: Python - JavaScript - Go - C - C++ - Java - Ruby</li>
+	<li>Languages: Python - Java - JavaScript - C/C++</li>
 	<li>Deep Learning: TensorFlow - Keras - Pandas - Numpy - OpenCV - GDAL</li>
-	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins - AWS</li>
-	<li>Databases: PostGreSQL - MongoDB</li>
-  <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
+	<li>Infrastructure: Kubernetes - Docker - GitlabCI - Jenkins - AWS - CDK</li>
+	<li>Databases: PostGreSQL - MongoDB - DynamoDB</li>
+    <li>Tools: VS Code - vim - zsh - tmux - git - jupyter</li>
 	<li>Development practices: TDD - Continuous Integration - Agile</li>
-  <li>Misc: MeteorJS - Redis - Kafka - Celery - node.js</li>
+    <li>Misc: MeteorJS - Redis - Kafka - Celery - node.js</li>
 </ul>
